@@ -27,6 +27,6 @@ Please see individual scripts for more information about each analysis and the p
 
 Please contact James Antony (james.ward.antony@gmail.com) if you have any questions or observe irregularities in the data. 
 
-Please also see the OpenNeuro folder for accompanying fMRIprepped data: 
+Please also see the OpenNeuro folder for accompanying fMRIprepped data: https://openneuro.org/datasets/ds008464.
 
 Behavioral analyses can be run with data on here. To run new neural analyses, one would need to run Import_all on the OpenNeuro data and store appropriately, then use outputs in the later scripts.
